@@ -1,0 +1,22 @@
+{
+  "name": "AKFramework",
+  "version": "0.1.0",
+  "summary": "A short description of AKFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/akirichek/AKFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "akirichek": "askirichek@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/akirichek/AKFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AKFramework/Classes/**/*"
+}

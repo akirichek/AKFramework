@@ -1,0 +1,6 @@
+framework module AKFramework {
+  umbrella header "AKFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

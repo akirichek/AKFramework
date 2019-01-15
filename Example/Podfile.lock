@@ -1,0 +1,16 @@
+PODS:
+  - AKFramework (0.1.0)
+
+DEPENDENCIES:
+  - AKFramework (from `../`)
+
+EXTERNAL SOURCES:
+  AKFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AKFramework: b01956b8a928160b1f457a858fe91dec9aaeb962
+
+PODFILE CHECKSUM: 9cbf1ede49da7fdb60c6dd8f15794874e4123ff7
+
+COCOAPODS: 1.5.3
